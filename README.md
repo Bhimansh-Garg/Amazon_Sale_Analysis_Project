@@ -1,4 +1,6 @@
-📊 Amazon Sale Analysis Project
+#Amazon Sale Analysis Project
+
+
 📝 Overview
 
 This project analyzes Amazon sales data to uncover insights about customer behavior, product performance, and overall sales trends. Using Python and Jupyter Notebook, we clean, process, and visualize the dataset, followed by a structured presentation of findings in the form of a PowerPoint report.
@@ -6,6 +8,7 @@ This project analyzes Amazon sales data to uncover insights about customer behav
 The goal is to extract meaningful patterns that can help optimize sales strategies, improve customer satisfaction, and highlight opportunities for business growth.
 
 📂 Project Structure
+
 Amazon_Sale_Analysis_Project/
 │
 ├── Amazon_Data_Analysis.ipynb   # Jupyter Notebook with data cleaning, analysis & visualizations
